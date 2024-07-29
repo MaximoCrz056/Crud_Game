@@ -8,6 +8,13 @@
     <link rel="stylesheet" href="vista/Bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="vista/css/estilos.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css">
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.bunny.net">
+    <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/5.3.3/lumen/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <!-- Los scripts van en body siempreeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee -->
     <script src="https://kit.fontawesome.com/919e73493b.js" crossorigin="anonymous"></script>
     <script src="https://kit.fontawesome.com/919e73493b.js" crossorigin="anonymous"></script>
     @vite(['resources/css/bootstrap.min.css', 'resources/js/bootstrap.min.js'])
