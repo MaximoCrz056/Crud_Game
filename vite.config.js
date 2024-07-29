@@ -5,13 +5,12 @@ export default defineConfig({
     plugins: [
         laravel({
             input: [
-                'resources/sass/app.scss',
+                'resources/css/app.css',
                 'resources/js/app.js',
+                // Asegúrate de que estos archivos existan en las rutas especificadas
                 'resources/js/bootstrap.min.js',
                 'resources/js/bootstrap.js',
-                'resources/css/bootstrap.js',
-                'resources/css/bootstrap.min.js',
-                'resources/js/estilosBoton.js',
+                'resources/js/estiloBoton.js',
                 'resources/js/estilosForm.js',
             ],
             refresh: true,
