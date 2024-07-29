@@ -7,7 +7,7 @@ export default defineConfig({
             input: [
                 'resources/css/app.css',
                 'resources/js/app.js',
-                // Asegúrate de que estos archivos existan en las rutas especificadas
+                'resources/css/bootstrap.min.css',
                 'resources/js/bootstrap.min.js',
                 'resources/js/bootstrap.js',
                 'resources/js/estiloBoton.js',
