@@ -5,7 +5,7 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Model;
 
 /**
- * Los modelos siempre van con Mayusculaaaaaaaaa
+ * Los modelos siempre van con Mayusculaaaaaaaaassssss
  * Class Accesorio
  *
  * @property $id
